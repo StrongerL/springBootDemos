@@ -9,8 +9,10 @@
     <description>记录spring boot的样例，帮助快速开发。</description>
     <packaging>pom</packaging>
 
+    <!--集成所有的demo-->
     <modules>
         <module>jwtDemo</module>
+        <module>JSR303Demo</module>
     </modules>
 
 </project>

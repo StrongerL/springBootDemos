@@ -13,6 +13,7 @@
     <modules>
         <module>jwtDemo</module>
         <module>JSR303Demo</module>
+        <module>unifiedResponseDemo</module>
     </modules>
 
 </project>
